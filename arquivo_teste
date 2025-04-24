@@ -1,0 +1,5 @@
+O que é uma branch no GitHub?
+
+No GitHub, uma branch é uma linha independente de desenvolvimento dentro de um repositório. Ela permite que você trabalhe em alterações sem afetar diretamente a versão principal do código.
+Permite experimentar mudanças, adicionar recursos ou fazer correções antes de integrar tudo à branch principal (main). 
+Assim como um rascunho, você pode revisar, testar e ajustar o código antes de finalizar.
